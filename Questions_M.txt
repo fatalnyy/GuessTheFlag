@@ -1,0 +1,200 @@
+A. Kuba
+B. Mali
+C. Togo
+D. Meksyk
+C.
+Lome
+Kraj z Afryki
+togo.png
+A. Somalia
+B. Mo쿭awia
+C. Andora
+D. Rumunia
+C.
+Andora
+Kraj z Europy
+andora.png
+A. Kyrgyzstan
+B. Chiny
+C. Tunezja
+D. Tajlandia
+A.
+Biszkek
+Kraj z Azji
+kyrgyzstan.png
+A. Wyspy Owcze
+B. Mali
+C. Kambod풹
+D. Namibia
+D.
+Windhuk
+Kraj z Afryki
+namibia.png
+A. Walia
+B. Rumunia
+C. Andora
+D. Armenia
+B.
+Bukareszt
+Kraj z Europy
+rumunia.png
+A. Indonezja
+B. Tunezja
+C. Korea Pn.
+D. Turcja
+B.
+Tunis
+Kraj z Afryki
+tunezja.png
+A. Kostaryka
+B. Kenia
+C. Kamerun
+D. RPA
+D.
+Kapsztad
+Kraj z Afryki
+rpa.png
+A. Laos
+B. Kolumbia
+C. Wenezulea
+D. Boliwia
+C.
+Caracas
+Kraj z Ameryki Poludniowej
+wenezuela.png
+A. Australia
+B. Paragwaj
+C. Sebia
+D. Holandia
+B.
+Asuncion
+Kraj z Ameryki Poludniowej
+paragwaj.png
+A. Malezja
+B. Tajlandia
+C. Algeria
+D. Nowa Zelandia
+A.
+Kuala Lumpur
+Kraj z Azji
+malezja.png
+A. Nowa Zelandia
+B. Wielka Brytania
+C. Austria
+D. Australia
+A.
+Wellington
+Sasiad Australii
+nowazelandia.png
+A. USA
+B. Kambod풹
+C. Tunezja
+D. Korea Pn.
+D.
+Pjongjang
+Kraj z Azji
+koreapn.png
+A. Gruzja
+B. Irlandia Pn.
+C. Walia
+D. Irlandia
+B.
+Belfast
+Kraj z Europy
+irlandiapln.png
+A. Macedonia
+B. Kamerun
+C. Azerbejd풹n
+D. Kenia
+C.
+Baku
+Lezy na pograniczu Azji i Europy
+azerbejdzan.png
+A. Mali
+B. Albania
+C. Mongolia
+D. Angola
+D.
+Luanda
+Kraj z Afryki
+angola.png
+A. Jordania
+B. Ghana
+C. Togo
+D. Kamerun
+B.
+Akra
+Kraj z Afryki
+ghana.png
+A. Mali
+B. Senegal
+C. Malezja
+D. Albania
+A.
+Bamako
+Kraj z Afryki
+mali.png
+A. Syria
+B. Nigeria
+C. Egipt
+D. Irak
+D.
+Bagdad
+Kraj z Azji
+irak.png
+A. RPA
+B. Tajlandia
+C. Japonia
+D. Chiny
+D.
+Pekin
+Kraj z Azji
+chiny.png
+A. Kostaryka
+B. Kosowo
+C. Ekwador
+D. Honduras
+A.
+San Jose
+Kraj z Ameryki Srodkowej
+kostaryka.png
+A. Egipt
+B. Jordania
+C. Azerbejd풹n
+D. Kuwejt
+B.
+Amman
+Kraj z Azji
+jordania.png
+A. Kolumbia
+B. Armenia
+C. Wenezuela
+D. Ekwador
+A.
+Bogota
+Kraj z Ameryki Poludniowej
+kolumbia.png
+A. Gruzja
+B. Nigeria
+C. Algeria
+D. Turcja
+C.
+Algier
+Kraj z Afryki
+algeria.png
+A. Portoryko
+B. Panama
+C. Peru
+D. Szwecja
+B.
+Panama
+Kraj z Ameryki Srodkowej
+panama.png
+A. Laos
+B. Kambod풹
+C. Uzbekistan
+D. Tajlandia
+C.
+Taszkent
+Kraj z Azji
+udz.png

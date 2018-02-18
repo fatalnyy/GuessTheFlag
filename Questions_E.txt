@@ -1,0 +1,200 @@
+A. San Marino
+B. Argentyna
+C. Honduras
+D. Kamerun
+B.
+Buenos Aires
+Kraj z Ameryki Poludniowej
+argentyna.png
+A. Kuba
+B. Francja
+C. Urugwaj
+D. Grecja
+C.
+Montevideo
+Kraj z Ameryki Poludniowej
+urugwaj.png
+A. Senegal
+B. Irak
+C. Japonia
+D. Zimbabwe
+A.
+Dakar
+Kraj z Afryki
+senegal.png
+A. Brazylia
+B. Iran
+C. Polska
+D. Monako
+D.
+Monako
+Kraj z Europy
+monako.png
+A. Boliwia
+B. Brazylia
+C. Holandia
+D. Togo
+B.
+Brasilia
+Kraj z Ameryki Poludniowej
+brazylia.png
+A. Peru
+B. Serbia
+C. S³owenia
+D. S³owacja
+C.
+Lublana
+Kraj z Europy
+slowenia.png
+A. Urugwaj
+B. Kanada
+C. W³ochy
+D. Meksyk
+D.
+Meksyk
+Kraj z Ameryki Srodkowej
+meksyk.png
+A. Litwa
+B. Estonia
+C. Indie
+D. Zimbabwe
+A.
+Wilno
+Kraj z Europy
+litwa.png
+A. Jamajka
+B. Chile
+C. RPA
+D. Senegal
+A.
+Kingston
+Kraj z Ameryki Srodkowej
+jamajka.png
+A. Hiszpania
+B. Francja
+C. Chile
+D. Czechy
+C.
+Santiago
+Kraj z Ameryki Poludniowej
+chile.png
+A. Kosowo
+B. Czarnogóra
+C. Rosja
+D. RPA
+B.
+Podgorica
+Kraj z Europy
+czarnogora.png
+A. Cypr
+B. Malezja
+C. Tanzania
+D. Peru
+A.
+Nikozja
+Kraj z Europy
+cypr.png
+A. Gruzja
+B. Macedonia
+C. Maroko
+D. Mo³dawia
+B.
+Skopje
+Kraj z Europy
+macedonia.png
+A. Katar
+B. Watykan
+C. Malta
+D. Monako
+C.
+Valletta
+Kraj z Europy
+malta.png
+A. S³owenia
+B. Ekwador
+C. Tajlandia
+D. S³owacja
+D.
+Bratys³awa
+Kraj z Europy
+slowacja.png
+A. Wêgry
+B. Iran
+C. Macedonia
+D. Irak
+B.
+Teheran
+Kraj z Azji
+iran.png
+A. Armenia
+B. Boliwia
+C. Holandia
+D. Albania
+A.
+Erywañ
+Kraj z Azji
+armenia.png
+A. Chile
+B. Senegal
+C. Kamerun
+D. Zimbabwe
+C.
+Jaunde
+Kraj z Afryki
+kamerun.png
+A. Dania
+B. Maroko
+C. Japonia
+D. Korea P³d
+D.
+Seul
+Kraj z Azji Wschodniej
+koreapld.png
+A. Irlandia
+B. Maroko
+C. Andora
+D. Mo³dawia
+D.
+Kiszyniów
+Kraj z Azji
+moldawia.png
+A. Honduras
+B. Argentyna
+C. San Marino
+D. Watykan
+C.
+San Marino
+Kraj z Europy
+sanmarino.png
+A. Syria
+B. Irak
+C. Wêgry
+D. Egipt
+A.
+Damaszek
+Kraj z Azji
+syria.png
+A. Mozambik
+B. Iran
+C. Indie
+D. Zambia
+C.
+Nowe Delhi
+Kraj z Azji
+indie.png
+A. Irak
+B. Egipt
+C. Malezja
+D. Szwecja
+B.
+Bagdad
+Kraj z Afryki
+egipt.png
+A. Andora
+B. Senegal
+C. W³ochy
+D. Irlandia
+C.
+Rzym
+Kraj z Europy
+wlochy.png

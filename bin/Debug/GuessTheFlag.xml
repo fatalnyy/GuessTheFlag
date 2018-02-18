@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GuessTheFlag</name>
+    </assembly>
+    <members>
+        <member name="T:GuessTheFlag.ExtraPointsDialog">
+            <summary>
+            ExtraPointsDialog
+            </summary>
+        </member>
+        <member name="P:GuessTheFlag.ExtraPointsDialog.CorrectCapitalCity">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:GuessTheFlag.ExtraPointsDialog.#ctor(System.String)">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:GuessTheFlag.ExtraPointsDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GuessTheFlag.Question">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="P:GuessTheFlag.Question.AnswerA">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="P:GuessTheFlag.Question.AnswerB">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="P:GuessTheFlag.Question.AnswerC">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="P:GuessTheFlag.Question.AnswerD">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="P:GuessTheFlag.Question.GoodAnswer">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="P:GuessTheFlag.Question.CapitalCity">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="P:GuessTheFlag.Question.ImagePath">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="P:GuessTheFlag.Question.Tip">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="T:GuessTheFlag.SettingsDialog">
+            <summary>
+            SettingsDialog
+            </summary>
+        </member>
+        <member name="M:GuessTheFlag.SettingsDialog.#ctor">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:GuessTheFlag.SettingsDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GuessTheFlag.StartDialog">
+            <summary>
+            StartDialog
+            </summary>
+        </member>
+        <member name="M:GuessTheFlag.StartDialog.#ctor">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:GuessTheFlag.StartDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GuessTheFlag.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:GuessTheFlag.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:GuessTheFlag.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:GuessTheFlag.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="P:GuessTheFlag.MainWindow.SetPath">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="P:GuessTheFlag.MainWindow.FlagFolderPath">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:GuessTheFlag.MainWindow.#ctor">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:GuessTheFlag.MainWindow.StartGame">
+            <Summary>
+             Gets the answer
+            </Summary>
+        </member>
+        <member name="M:GuessTheFlag.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GuessTheFlag.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:GuessTheFlag.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:GuessTheFlag.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

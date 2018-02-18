@@ -1,0 +1,200 @@
+A. Zimbabwe
+B. Kamerun
+C. Togo
+D. Indie
+A.
+Harare
+Kraj z Afryki
+zimbabwe.png
+A. Argentyna
+B. Nikaragua
+C. Honduras
+D. Salwador
+D.
+San Salvador
+Kraj z Ameryki Srodkowej
+salwador.png
+A. Laos
+B. Zimbabwe
+C. Belgia
+D. Uganda
+D.
+Kampala
+Kraj z Afryki
+uganda.png
+A. Honduras
+B. S³owacja
+C. S³owacja
+D. Serbia
+D.
+Belgrad
+Kraj z Europy
+serbia.png
+A. Fid¿i
+B. Liban
+C. Liberia
+D. Libia
+B.
+Bejrut
+Kraj z Azji
+liban.png
+A. Islandia
+B. Nowa Zelandia
+C. Walia
+D. Irlandia
+A.
+Reykjavik
+Kraj z Europy
+islandia.png
+A. Islandia
+B. Tajlandia
+C. Laos
+D. Kambod¿a
+D.
+Phnom Penh
+Kraj z Azji
+kambodza.png
+A. Maroko
+B. Nowa Zelandia
+C. Fid¿i
+D. Australia
+C.
+Suva
+Kraj z Oceanii
+fidzi.png
+A. Portoryko
+B. Dominikana
+C. Peru
+D. Panama
+B.
+Santo Domingo
+Kraj z Ameryki Srodkowej
+dominikana.png
+A. Boliwia
+B. Ghana
+C. Macedonia
+D. Brazylia
+A.
+Sucre
+Kraj z Ameryki Poludniowej
+boliwia.png
+A. Liban
+B. Monako
+C. Katar
+D. Bahrain
+D.
+Manama
+Kraj z Azji
+bahrain.png
+A. Filipiny
+B. Bahamy
+C. Kuba
+D. Argentyna
+B.
+Nassau
+Kraj z Ameryki Srodkowej
+bahamy.png
+A. Kiribati
+B. Indonezja
+C. Laos
+D. Salwador
+A.
+South Tarawa
+Kraj z Ameryki Srodkowej
+kiribati.png
+A. Kuba
+B. Liberia
+C. Filipiny
+D. Togo
+A.
+Hawana
+Kraj z Ameryki Srodkowej
+kuba.png
+A. Liberia
+B. Syria
+C. Jemen
+D. Angola
+C.
+Sana
+Kraj z Azji
+jemen.png
+A. Tajwan
+B. Libia
+C. Kenia
+D. Kosowo
+B.
+Trypolis
+Kraj z Afryki
+libia.png
+A. Gujana
+B. Madagaskar
+C. Zimbabwe
+D. Mozambik
+A.
+Georgetown
+Kraj z Ameryki Poludniowej
+gujana.png
+A. Nikaragua
+B. Haiti
+C. Kambod¿a
+D. Kosowo
+B.
+Port-au-Prince
+Kraj z Ameryki Srodkowej
+haiti.png
+A. Syria
+B. Libia
+C. Iran
+D. Kuwejt
+D.
+Kuwejt
+Kraj z Azji
+kuwejt.png
+A. Nikaragua
+B. Bahamy
+C. Honduras
+D. Argentyna
+A.
+Managua
+Kraj z Ameryki Srodkowej
+nikaragua.png
+A. Somalia
+B. Madagaskar
+C. Bia³oruœ
+D. Kuwejt
+B.
+Antananarywa
+Kraj z Afryki
+madagaskar.png
+A. Kambod¿a
+B. Madagaskar
+C. Laos
+D. Sri Lanka
+D.
+Kolombo
+Kraj z Azji
+srilanka.png
+A. Fid¿i
+B. Kuba
+C. Liberia
+D. USA
+C.
+Monrovia
+Kraj z Afryki
+liberia.png
+A. Czarnogóra
+B. Kosowo
+C. Filipiny
+D. Nowa Zelandia
+B.
+Prisztina
+Kraj z Europy
+kosowo.png
+A. Malta
+B. Sri Lanka
+C. Tajlandia
+D. Kambod¿a
+C.
+Bangkok
+Kraj z Azji
+tajlandia.png
